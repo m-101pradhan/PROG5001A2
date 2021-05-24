@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MP_Prey
+comment0.text=\r\n\ Class\ MP_Prey\ represents\ any\ prey\ object.\r\n\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=g
+comment1.target=MP_Prey(java.awt.Graphics)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MP_Prey\r\n
+comment2.params=maximumX\ maximumY\ minimumX\ minimumY
+comment2.target=void\ setPositionRandomly(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ destroy()
+numComments=4

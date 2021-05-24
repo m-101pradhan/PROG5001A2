@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MP_Snake
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MP_Snake\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=g
+comment1.target=MP_Snake(java.awt.Graphics)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MP_Snake\r\n
+comment2.params=
+comment2.target=int\ getLen()
+comment3.params=len
+comment3.target=void\ setLen(int)
+comment4.params=amount
+comment4.target=void\ increaseLength(int)
+comment5.params=
+comment5.target=float\ getSpeed()
+comment6.params=speed
+comment6.target=void\ setSpeed(float)
+comment7.params=direction
+comment7.target=void\ move(java.lang.String)
+comment8.params=
+comment8.target=boolean\ checkCollision()
+numComments=9

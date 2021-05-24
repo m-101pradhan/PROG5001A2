@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MP_PointArray
+comment1.params=pos_x\ pos_y\ len\ size_x\ size_y
+comment1.target=MP_PointArray(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MP_PointArray\r\n
+comment2.params=
+comment2.target=java.util.List\ getPos()
+numComments=3
